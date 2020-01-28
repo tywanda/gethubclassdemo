@@ -1,3 +1,4 @@
 # githubclassdemo
 class demo
-hello my name is tywanda and this is my first day of class
+I want to make my words bold **ITS ME** and with my heading as 
+## hello
