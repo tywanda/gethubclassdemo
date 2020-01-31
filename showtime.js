@@ -26,5 +26,25 @@ if (count %2==0){
     console.log("sun");
 }
 // this statement test the state of my variable in 4 ways
+var cash = 30;
+if (cash < 20 || cash < 13){
+    console.log("pay");
+}
+   
+if (cash < 15 ){
+    console.log ("notPay");
+}
+if (cash > 12 ){
+    console.log ("we");
+}
+if (cash < 5){
+    console.log ("me");
+}
+if (cash <20 && cash < 15 && cash > 5 ){
+    console.log ( "thank you");
+}
 
+// this is the ex. function
+function time(start, end) {
     
+}
